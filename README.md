@@ -1,2 +1,2 @@
 # C-Practice <br>
-I use this repo to practice C Questions
+I use this repository to practice C Questions
